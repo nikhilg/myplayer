@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>skylife.wma</file>
+        <file>skylife.aac</file>
+        <file>skylife.aiff</file>
+        <file>skylife.mp3</file>
+        <file>skylife.ogg</file>
+        <file>skylife.wav</file>
+        <file>T07.ogg</file>
+    </qresource>
+</RCC>
