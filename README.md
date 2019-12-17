@@ -1,5 +1,5 @@
 # myplayer
-Please use follwwing codec to install aac and ogg Windows OS codec. 
+Please use following codec(LAV filters) to install aac and ogg Windows OS codec. 
 
 http://forum.doom9.org/showthread.php?t=156191
 
