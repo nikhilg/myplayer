@@ -5,7 +5,9 @@ http://forum.doom9.org/showthread.php?t=156191
 
 This OS codec is needed so that QMediaPlayer class can play aac,ogg files.
 
-Sample audio file are uploaded to google drive at location
+Sample audio file are uploaded to google drive at location.
+
+Make sure that these files are unzipped at location C:\SkyLife\AudioFiles
 
 https://drive.google.com/file/d/1CiaWzDBUX84KnxtdbG-JFMxEdx4L2-4x/view?usp=sharing
 
